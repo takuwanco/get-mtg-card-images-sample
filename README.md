@@ -6,7 +6,8 @@ MTGのcard-image-galleryから、Selenium(ChromeDriver)でカード画像を一�
 # 必要なもの
 - ChromeDriver
   - https://developer.chrome.com/docs/chromedriver/downloads?hl=ja
-- Pythonライブラリ
+  - サンプルのiniでは、`C:/chromeDriver/chromedriver.exe` に配置の想定
+- インストールが必要なPythonライブラリ
   - Selenium
   - BeautifulSoup
   - PIL
